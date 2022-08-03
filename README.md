@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/superschooler/tip-calculator](https://github.com/superschooler/tip-calculator)
-- Live Site URL: [[Add live site URL here](https://superschooler.github.io/tip-calculator/)](https://superschooler.github.io/tip-calculator/)
+- Live Site URL: [https://superschooler.github.io/tip-calculator/](https://superschooler.github.io/tip-calculator/)
 
 ## My process
 
